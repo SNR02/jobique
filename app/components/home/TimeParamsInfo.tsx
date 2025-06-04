@@ -16,12 +16,12 @@ export default function TimeParamsInfo() {
                 Available Time Filters
               </CardTitle>
               <CardDescription className="text-gray-300 text-lg">
-                LinkedIn's hidden time parameters you can leverage
+                LinkedIn&#39;s hidden time parameters you can leverage
               </CardDescription>
             </CardHeader>
             <CardContent>
               <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-                {Object.entries(timeFrameMap).map(([timeFrame, value]) => (
+                {Object.entries(timeFrameMap).map(([timeFrame]) => (
                   <Badge 
                     key={timeFrame} 
                     variant="outline" 

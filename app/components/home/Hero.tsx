@@ -22,7 +22,7 @@ export default function Hero() {
         <br />
         
         <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto mb-12 leading-relaxed animate-fade-in">
-            Discover jobs posted in the last <span className="text-cyan-400 font-bold">1-6 hours</span> using LinkedIn's hidden time filters. 
+            Discover jobs posted in the last <span className="text-cyan-400 font-bold">1-6 hours</span> using LinkedIn&#39;s hidden time filters. 
             Apply early, get noticed first, and <span className="text-purple-400 font-bold">land your dream job faster</span>.
         </p>
 
