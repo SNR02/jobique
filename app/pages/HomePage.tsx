@@ -7,14 +7,12 @@ import { Label } from '../components/ui/label'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../components/ui/select'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '../components/ui/tabs'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card'
-import { Badge } from '../components/ui/badge'
-import { Search, Clock, Copy, ExternalLink, Zap, Target, TrendingUp } from "lucide-react"
+import { Search, Copy, ExternalLink, Zap, Target, TrendingUp } from "lucide-react"
 import { useToast } from '../hooks/use-toast'
 
 import Hero from '../components/home/Hero'
 import HowItWorks from '../components/home/HowItWorks'
 
-import countryLocationMap from '../utils/countryLocationMap'
 import { indianCitiesGeoIds } from '../utils/indianCitiesAndStates'
 import timeFrameMap from '../utils/timeFrames'
 import TimeParamsInfo from '../components/home/TimeParamsInfo'
@@ -73,6 +71,7 @@ export function HomePage() {
         description: "Your URL has been optimized with the new time filter.",
       })
     } catch (error) {
+      console.error("Invalid URL:", error);
       toast({
         title: "Invalid URL",
         description: "Please enter a valid LinkedIn job search URL.",
