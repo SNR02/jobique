@@ -4,14 +4,14 @@
 
 ![Jobique Logo](https://img.shields.io/badge/Jobique-Job%20Discovery-purple?style=for-the-badge&logo=rocket)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://lovable.dev/projects/2884307c-c90d-4c6e-a112-f7b5462e16da)
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://jobique-tan.vercel.app/)
+[![Next](https://img.shields.io/badge/next.js-Latest-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Latest-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Latest-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
 *Discover the freshest job opportunities using LinkedIn's hidden time filters* ⚡
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Contributing](#-contributing)
+[Features](#-features) • [Demo](#-live) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Contributing](#-contributing)
 
 </div>
 
@@ -26,7 +26,7 @@ Jobique is a powerful web application that helps job seekers discover the **fres
 - 📈 **3x Higher Response Rate** - Be among the first to apply
 - ⏱️ **1-6 Hour Fresh Postings** - Access the newest opportunities
 - 🎯 **Precision Filtering** - Use LinkedIn's hidden time parameters
-- 🌍 **Global Coverage** - Support for major locations worldwide
+- 🌍 **Wide Coverage** - Support for major locations across India
 - 🚀 **Lightning Fast** - Generate optimized URLs in seconds
 
 ---
@@ -56,9 +56,7 @@ Jobique is a powerful web application that helps job seekers discover the **fres
 
 ---
 
-## 🎬 Demo
-
-![Jobique Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Jobique+Demo+GIF)
+## 🌍 Live
 
 **Try it live:** [Jobique App](https://lovable.dev/projects/2884307c-c90d-4c6e-a112-f7b5462e16da)
 
@@ -125,7 +123,7 @@ npm run preview
 
 | Technology | Purpose | Version |
 |------------|---------|---------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) | Frontend Framework | 18.3.1 |
+| ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | Frontend Framework | 18.3.1 |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Type Safety | Latest |
 | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | Build Tool | Latest |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | Styling | Latest |
@@ -233,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the Jobique Team**
+**Made with ❤️ by the SNR**
 
 [![Star this repo](https://img.shields.io/github/stars/yourusername/jobique?style=social)](../../stargazers)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/jobique?style=social)](https://twitter.com/jobique)
@@ -246,9 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help? We're here for you!
 
-- 📧 **Email**: support@jobique.com
-- 💬 **Discord**: [Join our community](https://discord.gg/jobique)
-- 📖 **Documentation**: [Full docs](https://docs.jobique.com)
+- 💬 **Linkedin**: [Connect With Me](https://www.linkedin.com/in/shaik-nayyar-rabbani-559013213/)
 - 🐛 **Issues**: [GitHub Issues](../../issues)
 
 ---
